@@ -1,0 +1,5 @@
+
+> game-spot-app@0.1.0 dev
+> /app/game-spot-app/node_modules/.bin/next dev
+
+sh: 1: /app/game-spot-app/node_modules/.bin/next: not found
